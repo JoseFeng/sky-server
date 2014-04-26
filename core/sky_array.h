@@ -5,9 +5,6 @@
 
 #define _SKY_CORE_ARRAY_H
 
-#define LIST_INIT_SIZE 10 // 线性表存储空间的初始分配量
-#define LIST_INCREMENT 2 // 线性表存储空间的分配增量
-
 
 
 typedef struct sky_array * sky_array_p;//定义节点指针
